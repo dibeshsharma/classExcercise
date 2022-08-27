@@ -7,3 +7,4 @@ dummy text in paragraph shoulb be italics
 spClass = apply spClass to 2 paragraphs.
 form - make each input type block level
 add meta description section to the page.
+Form - set the values, id etc for radio, checkbox and select
